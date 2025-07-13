@@ -14,8 +14,8 @@ This app demonstrates clean UI design, state management, and dynamic question ha
 
 ---
 
-## 📸 Screenshots
-*(optional — add screenshots here if you have)*
+## 📸 Demo-Video
+https://drive.google.com/file/d/1dd28Z2KstpLktgIOwnkiVcSGoVpGajjx/view?usp=sharing
 
 ---
 
